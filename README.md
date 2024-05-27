@@ -24,4 +24,5 @@ When called route ``/pokemon/compare`` , by query string is performed a comparis
 example: ``http://localhost:3333/pokemons/compare?pokemon_name_first=charmander&pokemon_name_second=pikachu``
 
 
- For better understanding of replys and requests you can use the swagger-ui gerated at ``http://localhost:3333/docs``
+ For better understanding of usage you can use the swagger-ui gerated at ``http://localhost:3333/docs``
+ 
