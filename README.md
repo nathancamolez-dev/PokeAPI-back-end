@@ -1,6 +1,6 @@
 ## PokeAPI back end
 
-Project using Node 20.12 version lts
+Project using Node 20.11 version lts
 
 Start :
  ```npm i ```  to setting up dependencies after use ``npm run dev`` to start on port 3333 (default port)
